@@ -6,4 +6,4 @@ This repository is used for my Embedded Systems training.
 
 This project is developed as part of my Embedded Systems training.
 
-Project Status: Production
+Project Status: Development / Production
